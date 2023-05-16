@@ -1,0 +1,501 @@
+,Start Time,End Time,Trip Duration,Start Station,End Station,User Type,Gender,Birth Year
+1550326,6/30/2017 21:03,6/30/2017 21:27,1479,Streeter Dr & Grand Ave,Wacker Dr & Washington St,Customer,,
+1549025,6/30/2017 19:08,6/30/2017 19:19,630,Sedgwick St & Webster Ave,Southport Ave & Wellington Ave,Subscriber,Male,1988
+1549398,6/30/2017 19:36,6/30/2017 19:54,1079,Michigan Ave & Congress Pkwy,Dearborn St & Erie St,Subscriber,Female,1989
+1548960,6/30/2017 19:04,6/30/2017 19:17,791,Ashland Ave & Grand Ave,Damen Ave & Pierce Ave,Subscriber,Male,1988
+1549011,6/30/2017 19:07,6/30/2017 19:15,441,Lakeview Ave & Fullerton Pkwy,Clark St & Lincoln Ave,Subscriber,Male,1989
+1550692,6/30/2017 21:43,6/30/2017 21:49,354,Lincoln Ave & Belle Plaine Ave,Damen Ave & Sunnyside Ave,Subscriber,Male,1979
+1549088,6/30/2017 19:11,6/30/2017 19:35,1411,Sheridan Rd & Lawrence Ave,Lake Shore Dr & Belmont Ave,Subscriber,Male,1981
+1549085,6/30/2017 19:11,6/30/2017 19:25,819,McClurg Ct & Erie St,Lake Shore Dr & North Blvd,Subscriber,Female,1985
+1549740,6/30/2017 20:05,6/30/2017 20:20,913,Clifton Ave & Armitage Ave,Wells St & Elm St,Subscriber,Female,1992
+1549772,6/30/2017 20:08,6/30/2017 20:17,508,Halsted St & Blackhawk St (*),Wells St & Elm St,Subscriber,Male,1982
+1550256,6/30/2017 20:55,6/30/2017 20:59,247,May St & Taylor St,Halsted St & Roosevelt Rd,Subscriber,Male,1991
+1550397,6/30/2017 21:10,6/30/2017 21:14,250,Wells St & Polk St,Clinton St & Polk St (*),Subscriber,Male,1987
+1550011,6/30/2017 20:29,6/30/2017 20:44,891,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,Customer,,
+1551248,6/30/2017 23:10,6/30/2017 23:13,173,Southport Ave & Roscoe St,Southport Ave & Waveland Ave,Subscriber,Male,1989
+1550311,6/30/2017 21:01,6/30/2017 21:16,930,Clinton St & Madison St,Loomis St & Lexington St,Subscriber,Male,1990
+1551120,6/30/2017 22:52,6/30/2017 23:04,687,Albany (Kedzie) Ave & Montrose Ave,California Ave & Byron St,Subscriber,Male,1979
+1550150,6/30/2017 20:43,6/30/2017 20:53,622,Daley Center Plaza,Federal St & Polk St,Subscriber,Male,1988
+1550957,6/30/2017 22:24,6/30/2017 23:26,3703,Damen Ave & Pierce Ave,Sedgwick St & Huron St,Subscriber,Male,1992
+1550772,6/30/2017 21:57,6/30/2017 22:02,260,LaSalle St & Illinois St,Sedgwick St & Huron St,Subscriber,Male,1987
+1550287,6/30/2017 20:57,6/30/2017 21:07,551,Montrose Harbor,Montrose Harbor,Subscriber,Female,1992
+1549216,6/30/2017 19:22,6/30/2017 19:25,208,Damen Ave & Division St,Damen Ave & Division St,Subscriber,Male,1983
+1550355,6/30/2017 21:05,6/30/2017 21:16,607,Morgan St & Lake St,Orleans St & Ohio St,Customer,,
+1549699,6/30/2017 20:02,6/30/2017 20:49,2850,Michigan Ave & 8th St,McClurg Ct & Illinois St,Customer,,
+1550320,6/30/2017 21:02,6/30/2017 21:47,2669,Wabash Ave & Adams St,Wabash Ave & Adams St,Customer,,
+1549756,6/30/2017 20:07,6/30/2017 20:31,1452,Dayton St & North Ave,Lake Shore Dr & Ohio St,Subscriber,Male,1989
+1550190,6/30/2017 20:48,6/30/2017 20:51,210,Broadway & Waveland Ave,Pine Grove Ave & Irving Park Rd,Subscriber,Male,1983
+1550491,6/30/2017 21:21,6/30/2017 21:44,1354,Michigan Ave & Madison St,Shedd Aquarium,Customer,,
+1551187,6/30/2017 23:01,6/30/2017 23:09,454,Bissell St & Armitage Ave,Clark St & Lincoln Ave,Subscriber,Male,1987
+1549747,6/30/2017 20:06,6/30/2017 20:16,595,Clinton St & Lake St,Millennium Park,Customer,,
+1549120,6/30/2017 19:14,6/30/2017 19:27,796,Calumet Ave & 21st St,Halsted St & 21st St,Subscriber,Male,1985
+1549830,6/30/2017 20:12,6/30/2017 20:24,672,Damen Ave & Leland Ave,Clark St & Berwyn Ave,Subscriber,Female,1988
+1551291,6/30/2017 23:19,6/30/2017 23:26,466,Clinton St & Washington Blvd,Kingsbury St & Kinzie St,Subscriber,Male,1978
+1550354,6/30/2017 21:05,6/30/2017 21:22,1014,Racine Ave & Belmont Ave,Racine Ave & Belmont Ave,Subscriber,Male,1992
+1550138,6/30/2017 20:41,6/30/2017 21:02,1206,Clark St & Columbia Ave,Broadway & Wilson Ave,Subscriber,Male,1993
+1549149,6/30/2017 19:16,6/30/2017 19:31,924,Streeter Dr & Grand Ave,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1991
+1550566,6/30/2017 21:30,6/30/2017 21:40,603,Dayton St & North Ave,Wood St & Milwaukee Ave,Subscriber,Female,1989
+1549091,6/30/2017 19:12,6/30/2017 19:13,107,Wolcott Ave & Polk St,Hermitage Ave & Polk St,Subscriber,Female,1989
+1548962,6/30/2017 19:04,6/30/2017 19:13,516,Paulina St & Howard St,Chicago Ave & Washington St,Subscriber,Female,1965
+1549910,6/30/2017 20:20,6/30/2017 20:29,565,Clark St & Armitage Ave,Theater on the Lake,Customer,,
+1551134,6/30/2017 22:54,7/1/2017 0:08,4410,Sheffield Ave & Waveland Ave,St. Clair St & Erie St,Customer,,
+1550169,6/30/2017 20:45,6/30/2017 20:56,645,Millennium Park,Michigan Ave & 8th St,Customer,,
+1549992,6/30/2017 20:27,6/30/2017 20:38,640,Rush St & Hubbard St,LaSalle St & Jackson Blvd,Subscriber,Male,1993
+1551165,6/30/2017 22:58,6/30/2017 23:35,2246,Sheffield Ave & Waveland Ave,Clark St & Lincoln Ave,Customer,,
+1550651,6/30/2017 21:39,6/30/2017 21:47,484,Ashland Ave & Grace St,Sheridan Rd & Buena Ave,Subscriber,Female,1968
+1549592,6/30/2017 19:51,6/30/2017 20:02,665,McClurg Ct & Illinois St,Kingsbury St & Erie St,Subscriber,Male,1992
+1548974,6/30/2017 19:05,6/30/2017 19:17,743,Bosworth Ave & Howard St,Sheridan Rd & Loyola Ave,Subscriber,Female,1983
+1549636,6/30/2017 19:56,6/30/2017 20:14,1130,Wells St & Evergreen Ave,Greenview Ave & Fullerton Ave,Subscriber,Female,1987
+1549736,6/30/2017 20:05,6/30/2017 20:21,1001,Daley Center Plaza,Loomis St & Taylor St (*),Subscriber,Male,1984
+1550266,6/30/2017 20:55,6/30/2017 21:00,272,Damen Ave & Cortland St,Paulina Ave & North Ave,Subscriber,Male,1982
+1549399,6/30/2017 19:36,6/30/2017 19:44,472,Ogden Ave & Race Ave,Orleans St & Ohio St,Subscriber,Female,1989
+1550202,6/30/2017 20:49,6/30/2017 21:02,752,Wabash Ave & Roosevelt Rd,Clark St & 9th St (AMLI),Customer,,
+1550008,6/30/2017 20:29,6/30/2017 20:39,605,Broadway & Thorndale Ave,Clark St & Berwyn Ave,Subscriber,Male,1972
+1550666,6/30/2017 21:40,6/30/2017 21:51,667,Bissell St & Armitage Ave,Clark St & Wrightwood Ave,Subscriber,Male,1989
+1549614,6/30/2017 19:53,6/30/2017 20:16,1365,Burnham Harbor,Lake Shore Dr & Monroe St,Customer,,
+1550030,6/30/2017 20:31,6/30/2017 20:40,569,Wolcott Ave & Polk St,Loomis St & Lexington St,Subscriber,Male,1992
+1550873,6/30/2017 22:12,6/30/2017 22:23,640,Aberdeen St & Jackson Blvd,Halsted St & Maxwell St,Customer,,
+1551123,6/30/2017 22:53,6/30/2017 23:18,1522,Racine Ave & Randolph St,Halsted St & Roscoe St,Subscriber,Male,1989
+1549564,6/30/2017 19:49,6/30/2017 20:03,854,Clarendon Ave & Junior Ter,Clark St & Wellington Ave,Subscriber,Male,1990
+1551041,6/30/2017 22:37,6/30/2017 22:52,892,Southport Ave & Waveland Ave,California Ave & Byron St,Subscriber,Male,1991
+1550357,6/30/2017 21:06,6/30/2017 21:41,2125,Damen Ave & Pierce Ave,California Ave & North Ave,Subscriber,Female,1977
+1549173,6/30/2017 19:18,6/30/2017 19:27,537,Clark St & Armitage Ave,Clifton Ave & Armitage Ave,Subscriber,Male,1992
+1550112,6/30/2017 20:38,6/30/2017 20:45,436,Montrose Harbor,Clarendon Ave & Leland Ave,Subscriber,Male,1993
+1549922,6/30/2017 20:21,6/30/2017 20:34,751,Sheffield Ave & Wrightwood Ave,Lincoln Ave & Belmont Ave,Customer,,
+1550542,6/30/2017 21:27,6/30/2017 21:58,1864,Michigan Ave & 8th St,Field Museum,Customer,,
+1550967,6/30/2017 22:25,6/30/2017 22:37,711,Racine Ave & Belmont Ave,Ashland Ave & Belle Plaine Ave,Subscriber,Male,1989
+1549189,6/30/2017 19:19,6/30/2017 19:46,1587,Ashland Ave & Augusta Blvd,Mies van der Rohe Way & Chestnut St,Subscriber,Female,1986
+1549804,6/30/2017 20:10,6/30/2017 20:22,705,Dearborn St & Erie St,Ritchie Ct & Banks St,Subscriber,Male,1988
+1551167,6/30/2017 22:58,6/30/2017 23:19,1298,Millard Ave & 26th St,Ogden Ave & Roosevelt Rd,Customer,,
+1551272,6/30/2017 23:14,6/30/2017 23:46,1889,Theater on the Lake,Streeter Dr & Grand Ave,Customer,,
+1550718,6/30/2017 21:48,6/30/2017 21:54,381,Clinton St & 18th St,Clinton St & Roosevelt Rd,Subscriber,Male,1982
+1550744,6/30/2017 21:52,6/30/2017 22:15,1420,Wabash Ave & Wacker Pl,McCormick Place,Customer,,
+1551334,6/30/2017 23:27,6/30/2017 23:41,845,Clarendon Ave & Junior Ter,Southport Ave & Clark St,Customer,,
+1551159,6/30/2017 22:57,6/30/2017 23:07,558,California Ave & 21st St,California Ave & 21st St,Subscriber,Female,1983
+1548870,6/30/2017 18:58,6/30/2017 19:34,2165,Burnham Harbor,Burnham Harbor,Customer,,
+1549203,6/30/2017 19:21,6/30/2017 19:24,228,Halsted St & Blackhawk St (*),Sheffield Ave & Willow St,Subscriber,Male,1976
+1550918,6/30/2017 22:18,6/30/2017 22:25,377,Clark St & Randolph St,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1984
+1549477,6/30/2017 19:42,6/30/2017 19:54,722,Wells St & Evergreen Ave,Clifton Ave & Armitage Ave,Subscriber,Male,1990
+1551296,6/30/2017 23:20,6/30/2017 23:33,771,Clark St & Chicago Ave,Federal St & Polk St,Subscriber,Male,1990
+1549903,6/30/2017 20:19,6/30/2017 20:23,244,Sheffield Ave & Fullerton Ave,Greenview Ave & Fullerton Ave,Subscriber,Male,1988
+1550971,6/30/2017 22:26,6/30/2017 22:29,172,LaSalle St & Jackson Blvd,Franklin St & Jackson Blvd,Subscriber,Male,1974
+1551112,6/30/2017 22:50,6/30/2017 23:06,947,Sheffield Ave & Waveland Ave,Greenview Ave & Diversey Pkwy,Subscriber,Male,1967
+1549381,6/30/2017 19:35,6/30/2017 19:56,1233,Franklin St & Lake St,Field Blvd & South Water St,Subscriber,Male,1959
+1550462,6/30/2017 21:17,6/30/2017 21:33,969,Clark St & Berwyn Ave,Greenview Ave & Jarvis Ave,Subscriber,Male,1968
+1550372,6/30/2017 21:07,6/30/2017 21:17,604,Wells St & Concord Ln,Hampden Ct & Diversey Pkwy,Subscriber,Male,1967
+1549069,6/30/2017 19:10,6/30/2017 19:31,1232,Dusable Harbor,Dusable Harbor,Customer,,
+1551089,6/30/2017 22:47,6/30/2017 22:53,337,Cottage Grove Ave & Oakwood Blvd,MLK Jr Dr & Oakwood Blvd,Customer,,
+1550916,6/30/2017 22:17,6/30/2017 22:24,403,LaSalle St & Jackson Blvd,Peoria St & Jackson Blvd,Subscriber,Male,1981
+1548927,6/30/2017 19:02,6/30/2017 19:16,855,Wabash Ave & 8th St,Streeter Dr & Grand Ave,Subscriber,Male,1991
+1549950,6/30/2017 20:24,6/30/2017 20:27,213,Clark St & Berwyn Ave,Broadway & Berwyn Ave,Subscriber,Female,1982
+1549400,6/30/2017 19:36,6/30/2017 19:49,745,Lincoln Ave & Diversey Pkwy,Sheffield Ave & Kingsbury St,Subscriber,Female,1990
+1550486,6/30/2017 21:21,6/30/2017 21:31,643,Halsted St & Maxwell St,Peoria St & Jackson Blvd,Subscriber,Female,1986
+1551059,6/30/2017 22:40,6/30/2017 22:47,402,Ogden Ave & Roosevelt Rd,Wood St & Taylor St,Subscriber,Male,1993
+1549186,6/30/2017 19:19,6/30/2017 19:34,868,Clark St & Elm St,Bissell St & Armitage Ave,Subscriber,Female,1992
+1549894,6/30/2017 20:19,6/30/2017 20:47,1696,California Ave & Division St,California Ave & Division St,Customer,,
+1551098,6/30/2017 22:49,6/30/2017 23:08,1129,Halsted St & Diversey Pkwy,Wilton Ave & Diversey Pkwy,Customer,,
+1550089,6/30/2017 20:36,6/30/2017 20:39,172,Racine Ave & Belmont Ave,Racine Ave & Belmont Ave,Customer,,
+1550213,6/30/2017 20:51,6/30/2017 21:03,729,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,Customer,,
+1550583,6/30/2017 21:32,6/30/2017 21:35,187,Halsted St & Maxwell St,Morgan Ave & 14th Pl,Subscriber,Male,1982
+1551068,6/30/2017 22:42,6/30/2017 22:53,677,Wells St & Walton St,Orleans St & Merchandise Mart Plaza,Customer,,
+1550383,6/30/2017 21:08,6/30/2017 21:37,1770,Michigan Ave & 8th St,Columbus Dr & Randolph St,Customer,,
+1550815,6/30/2017 22:03,6/30/2017 22:19,964,Wentworth Ave & Archer Ave,LaSalle St & Washington St,Subscriber,Male,1987
+1550766,6/30/2017 21:55,6/30/2017 22:07,680,Larrabee St & Division St,Ashland Ave & Division St,Subscriber,Male,1988
+1551073,6/30/2017 22:43,6/30/2017 22:54,645,Wells St & Walton St,Orleans St & Merchandise Mart Plaza,Customer,,
+1549902,6/30/2017 20:19,6/30/2017 20:25,365,Morgan St & Lake St,Clinton St & Washington Blvd,Subscriber,Male,1966
+1550741,6/30/2017 21:51,6/30/2017 21:59,468,Michigan Ave & Madison St,Wabash Ave & Wacker Pl,Customer,,
+1548985,6/30/2017 19:06,6/30/2017 19:16,599,University Ave & 57th St,Lake Park Ave & 53rd St,Subscriber,Male,1989
+1549242,6/30/2017 19:24,6/30/2017 19:48,1490,Burnham Harbor,Cottage Grove Ave & Oakwood Blvd,Customer,,
+1551216,6/30/2017 23:05,6/30/2017 23:15,637,California Ave & Byron St,Sawyer Ave & Irving Park Rd,Subscriber,Female,1986
+1550853,6/30/2017 22:10,6/30/2017 22:23,789,Aberdeen St & Jackson Blvd,Halsted St & Maxwell St,Customer,,
+1551000,6/30/2017 22:32,6/30/2017 22:45,811,State St & 33rd St,Shields Ave & 31st St,Subscriber,Male,1993
+1550617,6/30/2017 21:35,6/30/2017 21:53,1120,Hampden Ct & Diversey Pkwy,Ritchie Ct & Banks St,Subscriber,Male,1987
+1549204,6/30/2017 19:21,6/30/2017 19:33,724,Michigan Ave & Lake St,Desplaines St & Kinzie St,Subscriber,Male,1993
+1551056,6/30/2017 22:39,6/30/2017 22:56,1017,Sheffield Ave & Waveland Ave,Sheffield Ave & Webster Ave,Subscriber,Female,1991
+1550841,6/30/2017 22:08,6/30/2017 22:13,319,Peoria St & Jackson Blvd,Clinton St & Madison St,Subscriber,Male,1984
+1550173,6/30/2017 20:46,6/30/2017 20:54,508,Ashland Ave & Harrison St,Western Ave & Congress Pkwy,Subscriber,Male,1974
+1549241,6/30/2017 19:23,6/30/2017 19:57,2007,Damen Ave & Division St,Halsted St & 18th St,Subscriber,Female,1986
+1551136,6/30/2017 22:54,6/30/2017 23:04,593,LaSalle St & Illinois St,Orleans St & Ohio St,Subscriber,Male,1987
+1549601,6/30/2017 19:52,6/30/2017 21:21,5354,Damen Ave & 59th St,Damen Ave & 59th St,Customer,,
+1549598,6/30/2017 19:51,6/30/2017 20:17,1512,Southport Ave & Roscoe St,Clark St & Lincoln Ave,Subscriber,Male,1962
+1549993,6/30/2017 20:28,6/30/2017 20:34,349,Ogden Ave & Roosevelt Rd,Wolcott Ave & Polk St,Subscriber,Male,1992
+1550334,6/30/2017 21:04,6/30/2017 21:12,487,Columbus Dr & Randolph St,Clark St & Randolph St,Subscriber,Male,1985
+1549101,6/30/2017 19:12,6/30/2017 19:32,1172,Dearborn St & Monroe St,Field Blvd & South Water St,Subscriber,Male,1963
+1549866,6/30/2017 20:16,6/30/2017 20:34,1086,Morgan St & Lake St,Wells St & Concord Ln,Subscriber,Male,1963
+1549138,6/30/2017 19:15,6/30/2017 19:20,319,Kedzie Ave & Palmer Ct,Kedzie Ave & Milwaukee Ave,Subscriber,Female,1985
+1550715,6/30/2017 21:48,6/30/2017 21:56,529,Dayton St & North Ave,Clybourn Ave & Division St,Customer,,
+1551341,6/30/2017 23:28,6/30/2017 23:50,1339,Orleans St & Merchandise Mart Plaza,Green St & Randolph St,Customer,,
+1550979,6/30/2017 22:28,6/30/2017 22:55,1634,Ashland Ave & Blackhawk St,Broadway & Barry Ave,Subscriber,Male,1982
+1549422,6/30/2017 19:38,6/30/2017 19:46,471,Mies van der Rohe Way & Chestnut St,LaSalle St & Illinois St,Subscriber,Male,1986
+1550530,6/30/2017 21:25,6/30/2017 21:34,556,St. Clair St & Erie St,McClurg Ct & Illinois St,Customer,,
+1549738,6/30/2017 20:05,6/30/2017 20:13,501,Drake Ave & Fullerton Ave,Central Park Ave & Elbridge Ave,Subscriber,Male,1992
+1550361,6/30/2017 21:06,6/30/2017 22:20,4466,Jeffery Blvd & 76th St,Jeffery Blvd & 76th St,Customer,,
+1550650,6/30/2017 21:39,6/30/2017 23:33,6866,Michigan Ave & Pearson St,Indiana Ave & Roosevelt Rd,Customer,,
+1551449,6/30/2017 23:49,6/30/2017 23:55,365,Lincoln Ave & Addison St,Southport Ave & Wellington Ave,Subscriber,Male,1990
+1549964,6/30/2017 20:25,6/30/2017 20:47,1320,Streeter Dr & Grand Ave,Lake Shore Dr & Diversey Pkwy,Subscriber,Female,1985
+1551236,6/30/2017 23:09,6/30/2017 23:17,510,Green St & Madison St,Michigan Ave & Washington St,Subscriber,Male,1985
+1551122,6/30/2017 22:52,6/30/2017 23:02,560,Shore Dr & 55th St,Shore Dr & 55th St,Subscriber,Male,1990
+1551050,6/30/2017 22:38,6/30/2017 22:59,1244,Ritchie Ct & Banks St,Broadway & Cornelia Ave,Subscriber,Male,1984
+1549870,6/30/2017 20:16,6/30/2017 20:36,1209,Dayton St & North Ave,Claremont Ave & Hirsch St,Subscriber,Male,1988
+1551141,6/30/2017 22:55,6/30/2017 23:21,1521,Broadway & Waveland Ave,Larrabee St & Menomonee St,Subscriber,Male,1990
+1549879,6/30/2017 20:17,6/30/2017 20:24,447,Lake Shore Dr & Monroe St,Millennium Park,Customer,,
+1548981,6/30/2017 19:05,6/30/2017 19:08,177,Sheffield Ave & Fullerton Ave,Greenview Ave & Fullerton Ave,Subscriber,Male,1994
+1549098,6/30/2017 19:12,6/30/2017 19:15,185,Kingsbury St & Erie St,Larrabee St & Kingsbury St,Subscriber,Male,1981
+1550805,6/30/2017 22:02,6/30/2017 22:24,1315,Rush St & Cedar St,Dearborn St & Monroe St,Customer,,
+1549394,6/30/2017 19:36,6/30/2017 19:41,310,Eckhart Park,Milwaukee Ave & Grand Ave,Subscriber,Male,1994
+1549113,6/30/2017 19:14,6/30/2017 19:35,1294,Clark St & Wellington Ave,Broadway & Ridge Ave,Subscriber,Male,1991
+1549739,6/30/2017 20:05,6/30/2017 20:24,1124,Michigan Ave & Washington St,Adler Planetarium,Customer,,
+1549792,6/30/2017 20:09,6/30/2017 20:21,741,Broadway & Barry Ave,Broadway & Sheridan Rd,Subscriber,Male,1990
+1549037,6/30/2017 19:09,6/30/2017 19:20,658,Lake Shore Dr & North Blvd,Lincoln Ave & Fullerton Ave,Subscriber,Male,1977
+1550671,6/30/2017 21:41,6/30/2017 21:56,873,Wacker Dr & Washington St,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1985
+1550461,6/30/2017 21:17,6/30/2017 21:25,483,Clark St & Congress Pkwy,Canal St & Madison St,Subscriber,Male,1972
+1550777,6/30/2017 21:58,6/30/2017 22:10,680,Franklin St & Chicago Ave,Sheffield Ave & Willow St,Subscriber,Male,1989
+1550748,6/30/2017 21:53,6/30/2017 22:15,1290,Southport Ave & Roscoe St,Wells St & Concord Ln,Customer,,
+1549202,6/30/2017 19:20,6/30/2017 19:27,400,Halsted St & Roscoe St,Racine Ave & Belmont Ave,Subscriber,Female,1992
+1549544,6/30/2017 19:47,6/30/2017 20:06,1158,Clark St & Wrightwood Ave,State St & Kinzie St,Subscriber,Male,1989
+1549071,6/30/2017 19:11,6/30/2017 19:14,225,State St & 33rd St,Calumet Ave & 33rd St,Subscriber,Male,1993
+1551450,6/30/2017 23:49,6/30/2017 23:56,395,Sedgwick St & North Ave,Bissell St & Armitage Ave,Subscriber,Male,1992
+1549082,6/30/2017 19:11,6/30/2017 19:20,492,Streeter Dr & Grand Ave,Michigan Ave & Oak St,Customer,,
+1551209,6/30/2017 23:04,6/30/2017 23:29,1510,Wilton Ave & Belmont Ave,Kedzie Ave & Palmer Ct,Subscriber,Female,1987
+1549096,6/30/2017 19:12,6/30/2017 19:19,423,Halsted St & Dickens Ave,Lincoln Ave & Diversey Pkwy,Subscriber,Male,1977
+1549505,6/30/2017 19:44,6/30/2017 19:51,420,Halsted St & Diversey Pkwy,Halsted St & Roscoe St,Subscriber,Female,1969
+1551176,6/30/2017 23:00,6/30/2017 23:09,553,Southport Ave & Waveland Ave,Clarendon Ave & Gordon Ter,Subscriber,Female,1994
+1548903,6/30/2017 19:00,6/30/2017 19:30,1802,Streeter Dr & Grand Ave,Wells St & Evergreen Ave,Customer,,
+1549357,6/30/2017 19:33,6/30/2017 19:56,1387,Streeter Dr & Grand Ave,Cannon Dr & Fullerton Ave,Customer,,
+1549197,6/30/2017 19:20,6/30/2017 19:44,1443,Sheridan Rd & Noyes St (NU),Sheridan Rd & Greenleaf Ave,Subscriber,Male,1981
+1550390,6/30/2017 21:09,6/30/2017 21:18,517,Lake Shore Dr & Wellington Ave,Clark St & Armitage Ave,Subscriber,Male,1986
+1549996,6/30/2017 20:28,6/30/2017 20:36,481,Ashland Ave & 21st St,Western Ave & 21st St,Subscriber,Female,1986
+1551428,6/30/2017 23:43,7/1/2017 0:01,1066,Southport Ave & Roscoe St,Lake Shore Dr & Belmont Ave,Customer,,
+1550085,6/30/2017 20:36,6/30/2017 20:43,438,Pine Grove Ave & Waveland Ave,Southport Ave & Waveland Ave,Subscriber,Male,1993
+1551206,6/30/2017 23:04,6/30/2017 23:26,1320,Halsted St & Maxwell St,Clinton St & Jackson Blvd,Subscriber,Male,1989
+1550181,6/30/2017 20:47,6/30/2017 21:05,1077,Ritchie Ct & Banks St,Rush St & Cedar St,Subscriber,Male,1960
+1551500,6/30/2017 23:59,7/1/2017 0:08,580,Damen Ave & Division St,Halsted St & Blackhawk St (*),Subscriber,Male,1990
+1548978,6/30/2017 19:05,6/30/2017 19:12,437,McClurg Ct & Illinois St,Streeter Dr & Grand Ave,Customer,,
+1551375,6/30/2017 23:34,6/30/2017 23:46,714,Michigan Ave & Washington St,Clinton St & Madison St,Subscriber,Male,1994
+1550246,6/30/2017 20:54,6/30/2017 21:00,372,Fairbanks Ct & Grand Ave,State St & Randolph St,Subscriber,Male,1983
+1549484,6/30/2017 19:43,6/30/2017 19:52,526,Kedzie Ave & Milwaukee Ave,Kosciuszko Park,Subscriber,Female,1964
+1551463,6/30/2017 23:50,6/30/2017 23:55,259,Sheffield Ave & Fullerton Ave,Lincoln Ave & Diversey Pkwy,Subscriber,Female,1983
+1551066,6/30/2017 22:42,6/30/2017 23:00,1108,Halsted St & Wrightwood Ave,Clark St & Schiller St,Customer,,
+1551018,6/30/2017 22:33,6/30/2017 22:43,598,Racine Ave & Fullerton Ave,Wilton Ave & Belmont Ave,Subscriber,Male,1979
+1549948,6/30/2017 20:23,6/30/2017 20:32,493,Montrose Harbor,Clarendon Ave & Leland Ave,Subscriber,Female,1995
+1549931,6/30/2017 20:22,6/30/2017 20:27,289,Sedgwick St & North Ave,Clark St & Armitage Ave,Subscriber,Male,1986
+1550778,6/30/2017 21:59,6/30/2017 22:14,917,Rush St & Hubbard St,Clinton St & Roosevelt Rd,Subscriber,Male,1979
+1550070,6/30/2017 20:35,6/30/2017 20:55,1193,Wolcott Ave & Polk St,Wood St & Taylor St,Subscriber,Male,1993
+1551260,6/30/2017 23:12,6/30/2017 23:34,1322,Milwaukee Ave & Grand Ave,Damen Ave & Division St,Customer,,
+1550649,6/30/2017 21:39,7/1/2017 0:07,8876,Canal St & Monroe St (*),Canal St & Monroe St (*),Customer,,
+1551156,6/30/2017 22:57,6/30/2017 23:03,373,Damen Ave & Augusta Blvd,Western Ave & Division St,Subscriber,Male,1983
+1549446,6/30/2017 19:39,6/30/2017 19:51,714,Burnham Harbor,Lake Shore Dr & Monroe St,Subscriber,Male,1992
+1549444,6/30/2017 19:39,6/30/2017 19:50,675,Jefferson St & Monroe St,Damen Ave & Madison St,Subscriber,Male,1992
+1551286,6/30/2017 23:17,6/30/2017 23:21,232,Wells St & Huron St,Wells St & Elm St,Subscriber,Male,1980
+1549337,6/30/2017 19:32,6/30/2017 20:12,2431,Michigan Ave & Oak St,Broadway & Belmont Ave,Subscriber,Female,1988
+1550123,6/30/2017 20:39,6/30/2017 20:43,274,Halsted St & Polk St,Halsted St & Polk St,Subscriber,Male,1992
+1551237,6/30/2017 23:09,6/30/2017 23:24,885,Wells St & Concord Ln,Desplaines St & Kinzie St,Subscriber,Male,1991
+1550427,6/30/2017 21:13,6/30/2017 21:30,1052,Burnham Harbor,Lake Shore Dr & Ohio St,Subscriber,Male,1988
+1550574,6/30/2017 21:31,6/30/2017 22:03,1924,Lincoln Ave & Belmont Ave,Troy St & Elston Ave,Customer,,
+1551411,6/30/2017 23:40,6/30/2017 23:56,938,Wabash Ave & Wacker Pl,Wells St & Evergreen Ave,Customer,,
+1550068,6/30/2017 20:35,6/30/2017 21:06,1909,Clark St & Winnemac Ave,Wells St & Concord Ln,Subscriber,Male,1986
+1549112,6/30/2017 19:14,6/30/2017 19:24,627,Halsted St & Polk St,Green St & Madison St,Subscriber,Male,1993
+1550496,6/30/2017 21:21,6/30/2017 21:36,913,Sheridan Rd & Loyola Ave,Bosworth Ave & Howard St,Subscriber,Male,1982
+1551109,6/30/2017 22:50,6/30/2017 23:00,591,Broadway & Barry Ave,Clark St & Armitage Ave,Subscriber,Male,1995
+1549961,6/30/2017 20:25,6/30/2017 20:38,824,Wilton Ave & Belmont Ave,Stockton Dr & Wrightwood Ave,Customer,,
+1550348,6/30/2017 21:05,6/30/2017 21:13,501,Racine Ave & Belmont Ave,Sheffield Ave & Waveland Ave,Subscriber,Female,1980
+1550947,6/30/2017 22:22,6/30/2017 22:45,1338,Michigan Ave & Oak St,Shedd Aquarium,Customer,,
+1548990,6/30/2017 19:06,6/30/2017 19:13,420,Broadway & Barry Ave,Broadway & Cornelia Ave,Subscriber,Male,1985
+1549079,6/30/2017 19:11,6/30/2017 19:23,739,Western Ave & Granville Ave,Western Ave & Leland Ave,Subscriber,Male,1987
+1550072,6/30/2017 20:35,6/30/2017 20:38,225,Ashland Ave & Wellington Ave,Lincoln Ave & Roscoe St,Subscriber,Male,1974
+1549139,6/30/2017 19:15,6/30/2017 19:32,1010,Field Museum,State St & Van Buren St,Customer,,
+1550791,6/30/2017 22:00,6/30/2017 22:04,258,Ellis Ave & 53rd St,Ellis Ave & 55th St,Subscriber,Male,1996
+1550556,6/30/2017 21:29,6/30/2017 21:50,1297,Rhodes Ave & 32nd St,Rhodes Ave & 32nd St,Subscriber,Male,1992
+1549460,6/30/2017 19:41,6/30/2017 19:47,359,Michigan Ave & Jackson Blvd,Indiana Ave & Roosevelt Rd,Subscriber,Male,1992
+1549675,6/30/2017 20:00,6/30/2017 20:03,201,Wabash Ave & Roosevelt Rd,Wabash Ave & 16th St,Subscriber,Female,1988
+1549663,6/30/2017 19:59,6/30/2017 20:13,875,Broadway & Argyle St,Campbell Ave & Montrose Ave,Subscriber,Male,1986
+1550443,6/30/2017 21:15,6/30/2017 21:26,637,Field Museum,Michigan Ave & 8th St,Customer,,
+1549004,6/30/2017 19:07,6/30/2017 19:13,381,Clifton Ave & Armitage Ave,Halsted St & Blackhawk St (*),Subscriber,Male,1988
+1549995,6/30/2017 20:28,6/30/2017 20:41,812,Lake Shore Dr & Diversey Pkwy,Sheffield Ave & Waveland Ave,Subscriber,Male,1976
+1549295,6/30/2017 19:27,6/30/2017 19:41,820,Clark St & Lake St,Clark St & North Ave,Subscriber,Female,1980
+1548879,6/30/2017 18:58,6/30/2017 19:09,646,Milwaukee Ave & Cuyler Ave,Keystone Ave & Montrose Ave,Subscriber,Male,1988
+1549851,6/30/2017 20:14,6/30/2017 20:19,283,Racine Ave & Congress Pkwy,Halsted St & Polk St,Subscriber,Male,1997
+1551262,6/30/2017 23:13,6/30/2017 23:39,1592,Milwaukee Ave & Grand Ave,Ashland Ave & Division St,Customer,,
+1548966,6/30/2017 19:04,6/30/2017 19:08,238,Damen Ave & Leland Ave,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1985
+1551115,6/30/2017 22:51,6/30/2017 22:54,185,Cottage Grove Ave & 47th St,Greenwood Ave & 47th St,Subscriber,Male,1987
+1548906,6/30/2017 19:00,6/30/2017 19:08,453,Damen Ave & Pierce Ave,Damen Ave & Chicago Ave,Subscriber,Female,1983
+1550164,6/30/2017 20:45,6/30/2017 20:56,668,Millennium Park,Michigan Ave & 8th St,Customer,,
+1551212,6/30/2017 23:04,6/30/2017 23:34,1770,Streeter Dr & Grand Ave,Millennium Park,Customer,,
+1548907,6/30/2017 19:00,6/30/2017 19:06,325,Damen Ave & Augusta Blvd,Ashland Ave & Division St,Subscriber,Male,1987
+1549286,6/30/2017 19:26,6/30/2017 19:41,862,Campbell Ave & North Ave,Wood St & Division St,Subscriber,Male,1997
+1550681,6/30/2017 21:42,6/30/2017 21:55,800,Racine Ave & Randolph St,Clark St & Randolph St,Customer,,
+1549293,6/30/2017 19:27,6/30/2017 19:34,429,Canal St & Adams St,Desplaines St & Kinzie St,Subscriber,Male,1990
+1549645,6/30/2017 19:57,6/30/2017 20:16,1130,Buckingham Fountain,Shedd Aquarium,Customer,,
+1549585,6/30/2017 19:51,6/30/2017 19:58,441,Ashland Ave & Grace St,Southport Ave & Belmont Ave,Subscriber,Male,1988
+1551224,6/30/2017 23:06,6/30/2017 23:20,818,Sheffield Ave & Webster Ave,Racine Ave & Belmont Ave,Subscriber,Female,1992
+1551163,6/30/2017 22:58,6/30/2017 23:12,883,Desplaines St & Kinzie St,Bissell St & Armitage Ave,Subscriber,Male,1986
+1549988,6/30/2017 20:27,6/30/2017 20:39,745,Federal St & Polk St,Canal St & Taylor St,Customer,,
+1551387,6/30/2017 23:36,6/30/2017 23:46,590,Wabash Ave & Roosevelt Rd,Halsted St & Polk St,Subscriber,Male,1992
+1549506,6/30/2017 19:44,6/30/2017 19:53,506,Elizabeth St & 47th St,Princeton Ave & 47th St,Subscriber,Male,1960
+1549227,6/30/2017 19:23,6/30/2017 19:31,515,Lakeview Ave & Fullerton Pkwy,Racine Ave & Fullerton Ave,Subscriber,Male,1993
+1551029,6/30/2017 22:35,6/30/2017 22:54,1148,Clark St & Randolph St,Clark St & Elm St,Customer,,
+1550476,6/30/2017 21:19,6/30/2017 21:25,322,Fairbanks Ct & Grand Ave,Michigan Ave & Pearson St,Subscriber,Male,1984
+1549427,6/30/2017 19:38,6/30/2017 19:45,442,Dearborn St & Erie St,Clark St & North Ave,Subscriber,Male,1987
+1550490,6/30/2017 21:21,6/30/2017 21:28,396,Broadway & Granville Ave,Glenwood Ave & Morse Ave,Subscriber,Male,1983
+1549949,6/30/2017 20:24,6/30/2017 20:45,1259,Spaulding Ave & Division St,Kedzie Ave & Chicago Ave,Subscriber,Male,1997
+1550389,6/30/2017 21:09,6/30/2017 21:17,499,Southport Ave & Wellington Ave,Lincoln Ave & Diversey Pkwy,Subscriber,Male,1993
+1549695,6/30/2017 20:02,6/30/2017 20:07,322,Sheffield Ave & Wrightwood Ave,Sheffield Ave & Webster Ave,Subscriber,Male,1992
+1551204,6/30/2017 23:04,6/30/2017 23:13,577,Clark St & Grace St,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1986
+1549059,6/30/2017 19:10,6/30/2017 19:27,1009,Wells St & Elm St,Damen Ave & Chicago Ave,Subscriber,Male,1986
+1550187,6/30/2017 20:48,6/30/2017 21:12,1448,Streeter Dr & Grand Ave,Field Museum,Customer,,
+1549021,6/30/2017 19:08,6/30/2017 19:11,187,Racine Ave & Belmont Ave,Wilton Ave & Belmont Ave,Subscriber,Female,1983
+1548925,6/30/2017 19:01,6/30/2017 19:11,599,Leavitt St & Addison St,Oakley Ave & Roscoe St,Customer,,
+1551082,6/30/2017 22:46,6/30/2017 23:05,1119,Wilton Ave & Belmont Ave,Sheffield Ave & Wrightwood Ave,Customer,,
+1550653,6/30/2017 21:39,6/30/2017 21:43,247,Wood St & Division St,Damen Ave & Augusta Blvd,Subscriber,Male,1987
+1549900,6/30/2017 20:19,6/30/2017 20:34,892,Dusable Harbor,Michigan Ave & Jackson Blvd,Customer,,
+1550482,6/30/2017 21:20,6/30/2017 21:27,409,Marshfield Ave & Cortland St,Milwaukee Ave & Rockwell St,Subscriber,Male,1980
+1550492,6/30/2017 21:21,6/30/2017 21:38,993,Michigan Ave & 8th St,Burnham Harbor,Customer,,
+1550328,6/30/2017 21:03,6/30/2017 22:18,4508,Jeffery Blvd & 76th St,Jeffery Blvd & 76th St,Customer,,
+1549314,6/30/2017 19:30,6/30/2017 19:33,199,Greenview Ave & Jarvis Ave,Glenwood Ave & Touhy Ave,Subscriber,Female,1989
+1549766,6/30/2017 20:08,6/30/2017 20:11,180,Sedgwick St & Schiller St,Sedgwick St & North Ave,Subscriber,Male,1988
+1550346,6/30/2017 21:05,6/30/2017 21:16,649,Morgan St & Lake St,Orleans St & Ohio St,Customer,,
+1548971,6/30/2017 19:05,6/30/2017 19:11,411,Ashland Ave & Belle Plaine Ave,Sheridan Rd & Irving Park Rd,Subscriber,Female,1990
+1548964,6/30/2017 19:04,6/30/2017 19:35,1823,Hermitage Ave & Polk St,Clark St & Schiller St,Subscriber,Male,1987
+1551383,6/30/2017 23:35,6/30/2017 23:42,391,Lincoln Ave & Waveland Ave,Southport Ave & Roscoe St,Subscriber,Male,1989
+1550716,6/30/2017 21:48,6/30/2017 21:53,297,Racine Ave (May St) & Fulton St,Milwaukee Ave & Grand Ave,Subscriber,Male,1986
+1549462,6/30/2017 19:41,6/30/2017 19:46,338,Racine Ave & Randolph St,Green St & Madison St,Subscriber,Female,1964
+1551026,6/30/2017 22:35,6/30/2017 22:47,734,Clark St & Lake St,Stetson Ave & South Water St,Customer,,
+1550877,6/30/2017 22:13,6/30/2017 23:24,4286,Theater on the Lake,Theater on the Lake,Customer,,
+1549907,6/30/2017 20:19,6/30/2017 22:13,6797,Central Park Ave & Elbridge Ave,Central Park Ave & Elbridge Ave,Subscriber,Male,1987
+1549361,6/30/2017 19:34,6/30/2017 19:38,291,Clinton St & Washington Blvd,Desplaines St & Jackson Blvd,Subscriber,Male,1986
+1549553,6/30/2017 19:47,6/30/2017 20:00,750,Ritchie Ct & Banks St,Halsted St & Willow St,Subscriber,Male,1992
+1549693,6/30/2017 20:01,6/30/2017 20:07,365,Sheffield Ave & Fullerton Ave,Sedgwick St & Webster Ave,Subscriber,Male,1990
+1551289,6/30/2017 23:18,6/30/2017 23:56,2284,Calumet Ave & 18th St,Cornell Ave & Hyde Park Blvd,Customer,,
+1549031,6/30/2017 19:08,6/30/2017 19:28,1196,Michigan Ave & Oak St,Streeter Dr & Grand Ave,Customer,,
+1550745,6/30/2017 21:52,6/30/2017 22:15,1373,Wabash Ave & Wacker Pl,McCormick Place,Subscriber,Female,1985
+1549858,6/30/2017 20:15,6/30/2017 21:13,3457,Broadway & Granville Ave,Michigan Ave & Oak St,Customer,,
+1551397,6/30/2017 23:38,6/30/2017 23:51,786,Western Ave & Monroe St,Western Ave & Monroe St,Subscriber,Male,1975
+1549155,6/30/2017 19:17,6/30/2017 19:25,537,Milwaukee Ave & Rockwell St,Richmond St & Diversey Ave,Subscriber,Female,1979
+1549797,6/30/2017 20:09,6/30/2017 20:24,875,Damen Ave & Charleston St,Damen Ave & Division St,Subscriber,Female,1991
+1549651,6/30/2017 19:58,6/30/2017 20:21,1398,Wabash Ave & Grand Ave,Milwaukee Ave & Grand Ave,Customer,,
+1549244,6/30/2017 19:24,6/30/2017 19:33,532,Southport Ave & Roscoe St,Sheridan Rd & Irving Park Rd,Subscriber,Female,1994
+1549603,6/30/2017 19:52,6/30/2017 20:02,617,Wells St & Elm St,Desplaines St & Kinzie St,Subscriber,Male,1987
+1549778,6/30/2017 20:09,6/30/2017 20:21,732,Stockton Dr & Wrightwood Ave,Broadway & Belmont Ave,Subscriber,Male,1989
+1549166,6/30/2017 19:18,6/30/2017 19:29,692,Ashland Ave & Harrison St,Damen Ave & Grand Ave,Subscriber,Female,1980
+1550118,6/30/2017 20:38,6/30/2017 20:56,1094,Franklin St & Jackson Blvd,Wells St & Concord Ln,Subscriber,Male,1985
+1548920,6/30/2017 19:01,6/30/2017 19:10,515,Clinton St & Lake St,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1991
+1549211,6/30/2017 19:21,6/30/2017 19:35,825,Damen Ave & Cortland St,Bissell St & Armitage Ave,Subscriber,Male,1991
+1550325,6/30/2017 21:03,6/30/2017 21:11,496,Lake Shore Dr & Ohio St,Dearborn Pkwy & Delaware Pl,Subscriber,Female,1989
+1549668,6/30/2017 19:59,6/30/2017 20:21,1315,Wabash Ave & Grand Ave,Milwaukee Ave & Grand Ave,Customer,,
+1549980,6/30/2017 20:26,6/30/2017 20:53,1590,Streeter Dr & Grand Ave,Hampden Ct & Diversey Pkwy,Subscriber,Female,1980
+1550641,6/30/2017 21:38,6/30/2017 22:02,1416,Canal St & Monroe St (*),State St & Randolph St,Customer,,
+1551370,6/30/2017 23:34,6/30/2017 23:49,907,Wilton Ave & Belmont Ave,Clark St & Lincoln Ave,Subscriber,Male,1981
+1550151,6/30/2017 20:43,6/30/2017 20:50,457,Racine Ave & 18th St,May St & Taylor St,Customer,,
+1549984,6/30/2017 20:27,6/30/2017 20:35,498,Southport Ave & Clark St,Clark St & Winnemac Ave,Subscriber,Female,1992
+1550543,6/30/2017 21:27,6/30/2017 21:33,325,State St & Pearson St,Orleans St & Chestnut St (NEXT Apts),Subscriber,Male,1976
+1549779,6/30/2017 20:09,6/30/2017 20:26,1017,Paulina Ave & North Ave,Ashland Ave & Wellington Ave,Subscriber,Male,1974
+1550798,6/30/2017 22:00,6/30/2017 22:15,875,Racine Ave & Fullerton Ave,Wells St & Concord Ln,Subscriber,Male,1998
+1550489,6/30/2017 21:21,6/30/2017 21:34,799,State St & Kinzie St,Wells St & Elm St,Subscriber,Male,1988
+1549878,6/30/2017 20:17,6/30/2017 20:37,1230,Broadway & Cornelia Ave,Michigan Ave & Oak St,Subscriber,Male,1987
+1548880,6/30/2017 18:58,6/30/2017 19:13,883,Theater on the Lake,Dearborn Pkwy & Delaware Pl,Subscriber,Female,1990
+1550419,6/30/2017 21:12,6/30/2017 21:16,213,Halsted St & Roosevelt Rd,May St & Taylor St,Subscriber,Male,1994
+1550069,6/30/2017 20:35,6/30/2017 21:03,1714,Green St & Randolph St,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1963
+1550005,6/30/2017 20:29,6/30/2017 20:53,1437,Wilton Ave & Belmont Ave,Damen Ave & Division St,Subscriber,Male,1988
+1550284,6/30/2017 20:57,6/30/2017 21:06,499,May St & Taylor St,May St & Taylor St,Subscriber,Male,1993
+1551039,6/30/2017 22:37,6/30/2017 22:39,106,Ogden Ave & Chicago Ave,Carpenter St & Huron St,Subscriber,Female,1989
+1551049,6/30/2017 22:38,6/30/2017 22:48,559,Wood St & Milwaukee Ave,Western Ave & Winnebago Ave,Subscriber,Male,1983
+1549642,6/30/2017 19:57,6/30/2017 20:24,1637,Michigan Ave & Washington St,State St & 19th St,Customer,,
+1550416,6/30/2017 21:12,6/30/2017 21:29,1014,Fairbanks Ct & Grand Ave,Cannon Dr & Fullerton Ave,Subscriber,Male,1984
+1550399,6/30/2017 21:10,6/30/2017 21:16,345,Ashland Ave & Wellington Ave,Southport Ave & Wrightwood Ave,Subscriber,Female,1993
+1549696,6/30/2017 20:02,6/30/2017 20:09,454,Ellis Ave & 58th St,Prairie Ave & Garfield Blvd,Subscriber,Male,1987
+1550941,6/30/2017 22:22,6/30/2017 22:45,1405,Burnham Harbor,Cottage Grove Ave & Oakwood Blvd,Customer,,
+1550851,6/30/2017 22:09,6/30/2017 22:19,589,Western Ave & Leland Ave,Clark St & Berwyn Ave,Subscriber,Female,1989
+1550892,6/30/2017 22:15,6/30/2017 22:33,1074,Broadway & Wilson Ave,Sheridan Rd & Buena Ave,Subscriber,Male,1979
+1551169,6/30/2017 22:59,6/30/2017 23:09,601,Desplaines St & Randolph St,Daley Center Plaza,Subscriber,Male,1991
+1551239,6/30/2017 23:09,6/30/2017 23:13,204,Orleans St & Ohio St,Wells St & Huron St,Subscriber,Male,1987
+1550387,6/30/2017 21:08,6/30/2017 21:21,780,Cityfront Plaza Dr & Pioneer Ct,Canal St & Madison St,Subscriber,Male,1984
+1549304,6/30/2017 19:28,6/30/2017 19:37,497,Sheffield Ave & Willow St,Wells St & Concord Ln,Subscriber,Female,1979
+1549311,6/30/2017 19:30,6/30/2017 19:44,860,Orleans St & Merchandise Mart Plaza,Wells St & Concord Ln,Subscriber,Female,1986
+1550690,6/30/2017 21:42,6/30/2017 21:49,367,Milwaukee Ave & Rockwell St,Milwaukee Ave & Wabansia Ave,Subscriber,Male,1984
+1550800,6/30/2017 22:01,6/30/2017 22:05,296,Sheffield Ave & Waveland Ave,Sheridan Rd & Buena Ave,Subscriber,Male,1972
+1551466,6/30/2017 23:51,7/1/2017 0:06,954,State St & Randolph St,Canal St & Monroe St (*),Customer,,
+1550037,6/30/2017 20:31,6/30/2017 20:47,932,Racine Ave & Fullerton Ave,Cannon Dr & Fullerton Ave,Subscriber,Female,1992
+1548930,6/30/2017 19:02,6/30/2017 19:20,1110,Lake Shore Dr & North Blvd,Lake Shore Dr & Belmont Ave,Subscriber,Male,1987
+1549005,6/30/2017 19:07,6/30/2017 19:18,667,Lake Shore Dr & North Blvd,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1978
+1549127,6/30/2017 19:14,6/30/2017 19:31,986,Sheffield Ave & Waveland Ave,Sedgwick St & North Ave,Subscriber,Male,1984
+1549338,6/30/2017 19:32,6/30/2017 19:41,556,Sheffield Ave & Wrightwood Ave,Halsted St & Roscoe St,Subscriber,Male,1991
+1551283,6/30/2017 23:17,6/30/2017 23:28,670,Clifton Ave & Lawrence Ave,Western Ave & Leland Ave,Subscriber,Male,1969
+1550520,6/30/2017 21:24,6/30/2017 21:29,298,MLK Jr Dr & 29th St,Rhodes Ave & 32nd St,Subscriber,Female,1992
+1549819,6/30/2017 20:11,6/30/2017 20:21,614,Ravenswood Ave & Montrose Ave (*),Ravenswood Ave & Irving Park Rd,Subscriber,Male,1978
+1550053,6/30/2017 20:33,6/30/2017 20:54,1265,Franklin St & Quincy St,Rush St & Cedar St,Subscriber,Male,1980
+1548894,6/30/2017 19:00,6/30/2017 19:06,366,Wabash Ave & Cermak Rd,Indiana Ave & 26th St,Subscriber,Male,1964
+1549831,6/30/2017 20:12,6/30/2017 20:16,200,Fort Dearborn Dr & 31st St,Rhodes Ave & 32nd St,Subscriber,Male,1993
+1549573,6/30/2017 19:50,6/30/2017 19:57,466,Clark St & Congress Pkwy,Peoria St & Jackson Blvd,Subscriber,Male,1985
+1550669,6/30/2017 21:41,6/30/2017 22:20,2322,Racine Ave & Wrightwood Ave,Southport Ave & Wellington Ave,Subscriber,Male,1994
+1549784,6/30/2017 20:09,6/30/2017 20:23,880,Humboldt Blvd & Armitage Ave,Spaulding Ave & Division St,Subscriber,Male,1997
+1550120,6/30/2017 20:38,6/30/2017 20:53,890,Lincoln Ave & Fullerton Ave,Broadway & Waveland Ave,Subscriber,Male,1983
+1550179,6/30/2017 20:46,6/30/2017 21:03,1006,Theater on the Lake,Michigan Ave & Oak St,Subscriber,Male,1987
+1549800,6/30/2017 20:10,6/30/2017 20:18,509,Bissell St & Armitage Ave,Clark St & Armitage Ave,Customer,,
+1548890,6/30/2017 18:59,6/30/2017 19:03,253,Orleans St & Ohio St,Orleans St & Chestnut St (NEXT Apts),Subscriber,Male,1993
+1550665,6/30/2017 21:40,6/30/2017 21:52,718,Kingsbury St & Erie St,Green St & Randolph St,Subscriber,Male,1992
+1551099,6/30/2017 22:49,6/30/2017 22:58,529,Michigan Ave & Lake St,State St & Pearson St,Subscriber,Male,1989
+1549875,6/30/2017 20:17,6/30/2017 20:35,1070,Clinton St & Madison St,Clark St & Schiller St,Subscriber,Female,1985
+1549230,6/30/2017 19:23,6/30/2017 19:39,960,Michigan Ave & Washington St,Rush St & Cedar St,Subscriber,Male,1986
+1550590,6/30/2017 21:33,6/30/2017 22:00,1631,Damen Ave & Chicago Ave,Damen Ave & Cullerton St,Subscriber,Male,1989
+1550007,6/30/2017 20:29,6/30/2017 20:33,241,Orleans St & Elm St (*),Sedgwick St & North Ave,Subscriber,Male,1987
+1550055,6/30/2017 20:33,6/30/2017 20:49,946,Sedgwick St & North Ave,Damen Ave & Cortland St,Subscriber,Female,1984
+1550727,6/30/2017 21:50,6/30/2017 21:58,453,Loomis St & Lexington St,Ashland Ave & 13th St,Subscriber,Male,1995
+1551009,6/30/2017 22:33,6/30/2017 22:42,545,Halsted St & Blackhawk St (*),Clark St & Armitage Ave,Subscriber,Female,1983
+1550010,6/30/2017 20:29,6/30/2017 20:33,263,Wood St & Taylor St,Wolcott Ave & Polk St,Subscriber,Male,1993
+1551251,6/30/2017 23:11,6/30/2017 23:23,734,Halsted St & Blackhawk St (*),Clinton St & Madison St,Subscriber,Male,1986
+1548892,6/30/2017 18:59,6/30/2017 19:24,1455,Clark St & North Ave,Broadway & Cornelia Ave,Subscriber,Male,1975
+1550398,6/30/2017 21:10,6/30/2017 21:17,461,Lake Shore Dr & Wellington Ave,Clark St & Armitage Ave,Subscriber,Male,1987
+1550003,6/30/2017 20:28,6/30/2017 20:30,99,Sangamon St & Washington Blvd (*),Sangamon St & Washington Blvd (*),Subscriber,Female,1979
+1550453,6/30/2017 21:16,6/30/2017 21:27,674,St. Clair St & Erie St,Millennium Park,Subscriber,Male,1972
+1549757,6/30/2017 20:07,6/30/2017 20:22,939,Rush St & Superior St,Stockton Dr & Wrightwood Ave,Subscriber,Male,1973
+1551139,6/30/2017 22:55,6/30/2017 23:05,594,Clark St & Berwyn Ave,Leavitt St & Lawrence Ave,Subscriber,Male,1989
+1551231,6/30/2017 23:07,6/30/2017 23:17,606,Morgan St & Lake St,Michigan Ave & Madison St,Subscriber,Male,1984
+1549703,6/30/2017 20:02,6/30/2017 20:12,567,Pine Grove Ave & Waveland Ave,Clarendon Ave & Junior Ter,Subscriber,Male,1956
+1550652,6/30/2017 21:39,6/30/2017 21:49,594,Franklin St & Jackson Blvd,Wells St & Polk St,Subscriber,Male,1986
+1550013,6/30/2017 20:29,6/30/2017 20:44,861,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,Customer,,
+1551421,6/30/2017 23:41,7/1/2017 0:00,1138,Lake Shore Dr & Wellington Ave,Marine Dr & Ainslie St,Subscriber,Male,1981
+1550265,6/30/2017 20:55,6/30/2017 20:58,150,Clark St & Lake St,Franklin St & Lake St,Subscriber,Male,1990
+1548940,6/30/2017 19:02,6/30/2017 19:33,1809,Michigan Ave & Washington St,Streeter Dr & Grand Ave,Customer,,
+1551061,6/30/2017 22:40,6/30/2017 22:50,603,Clark St & Armitage Ave,Dearborn St & Erie St,Subscriber,Male,1987
+1551395,6/30/2017 23:37,6/30/2017 23:52,913,Lincoln Ave & Belmont Ave,Halsted St & Blackhawk St (*),Subscriber,Male,1987
+1551306,6/30/2017 23:22,6/30/2017 23:30,505,Southport Ave & Belmont Ave,Wilton Ave & Belmont Ave,Subscriber,Male,1992
+1548961,6/30/2017 19:04,6/30/2017 19:27,1350,Streeter Dr & Grand Ave,Theater on the Lake,Customer,,
+1551482,6/30/2017 23:53,7/1/2017 0:02,577,Wells St & Concord Ln,Theater on the Lake,Subscriber,Male,1986
+1549500,6/30/2017 19:44,6/30/2017 19:57,762,Glenwood Ave & Morse Ave,Western Ave & Lunt Ave,Subscriber,Male,1994
+1550009,6/30/2017 20:29,6/30/2017 20:34,275,Wood St & Taylor St,Wolcott Ave & Polk St,Subscriber,Male,1987
+1549556,6/30/2017 19:48,6/30/2017 19:52,227,Sheffield Ave & Willow St,Bissell St & Armitage Ave,Subscriber,Female,1985
+1549850,6/30/2017 20:14,6/30/2017 21:13,3508,Broadway & Granville Ave,Michigan Ave & Oak St,Customer,,
+1548934,6/30/2017 19:02,6/30/2017 20:56,6825,Streeter Dr & Grand Ave,Michigan Ave & Oak St,Customer,,
+1550755,6/30/2017 21:54,6/30/2017 22:21,1596,Sheffield Ave & Waveland Ave,Leavitt St & Armitage Ave,Subscriber,Female,1980
+1551218,6/30/2017 23:05,6/30/2017 23:23,1073,Damen Ave & Madison St,Ashland Ave & Division St,Subscriber,Female,1985
+1549841,6/30/2017 20:13,6/30/2017 21:06,3177,Lake Shore Dr & Ohio St,Broadway & Cornelia Ave,Customer,,
+1551440,6/30/2017 23:46,6/30/2017 23:58,725,Streeter Dr & Grand Ave,State St & Randolph St,Subscriber,Male,1989
+1551453,6/30/2017 23:49,7/1/2017 0:08,1138,Clark St & Elm St,Clark St & Randolph St,Customer,,
+1548949,6/30/2017 19:03,6/30/2017 19:23,1216,Shedd Aquarium,Indiana Ave & 31st St,Subscriber,Female,1994
+1551269,6/30/2017 23:14,6/30/2017 23:20,348,Desplaines St & Kinzie St,LaSalle St & Illinois St,Subscriber,Male,1983
+1551246,6/30/2017 23:10,7/1/2017 0:25,4467,Kingsbury St & Erie St,Morgan Ave & 14th Pl,Customer,,
+1549454,6/30/2017 19:40,6/30/2017 19:45,262,Daley Center Plaza,LaSalle St & Jackson Blvd,Subscriber,Male,1988
+1549812,6/30/2017 20:10,6/30/2017 20:13,169,Wolcott Ave & Polk St,Wood St & Taylor St,Subscriber,Male,1994
+1548884,6/30/2017 18:59,6/30/2017 19:16,1055,Streeter Dr & Grand Ave,Wells St & Polk St,Subscriber,Female,1985
+1550409,6/30/2017 21:11,6/30/2017 21:26,901,Clinton St & Washington Blvd,Ashland Ave & Division St,Subscriber,Male,1972
+1550426,6/30/2017 21:13,6/30/2017 21:58,2720,Field Museum,Woodlawn Ave & Lake Park Ave,Customer,,
+1549360,6/30/2017 19:34,6/30/2017 20:00,1604,Daley Center Plaza,Ashland Ave & Division St,Customer,,
+1549836,6/30/2017 20:13,6/30/2017 21:06,3217,Lake Shore Dr & Ohio St,Broadway & Cornelia Ave,Customer,,
+1551137,6/30/2017 22:55,6/30/2017 23:13,1122,Halsted St & 21st St,Wabash Ave & Roosevelt Rd,Customer,,
+1550570,6/30/2017 21:30,6/30/2017 21:37,437,Ashland Ave & Archer Ave,Wood St & 35th St,Subscriber,Male,1961
+1549012,6/30/2017 19:07,6/30/2017 20:14,3985,Lake Park Ave & 56th St,Buckingham Fountain,Customer,,
+1550924,6/30/2017 22:19,6/30/2017 22:25,353,Wentworth Ave & 35th St,Halsted St & 35th St (*),Subscriber,Female,1982
+1549758,6/30/2017 20:07,6/30/2017 20:22,914,Columbus Dr & Randolph St,Canal St & Adams St,Subscriber,Female,1963
+1549194,6/30/2017 19:20,6/30/2017 19:24,229,Millennium Park,Michigan Ave & Jackson Blvd,Subscriber,Male,1987
+1549799,6/30/2017 20:09,6/30/2017 20:19,598,Sheridan Rd & Greenleaf Ave,Oakley Ave & Touhy Ave,Subscriber,Male,1988
+1551410,6/30/2017 23:40,7/1/2017 0:07,1627,Wilton Ave & Diversey Pkwy,Broadway & Argyle St,Subscriber,Male,1966
+1551293,6/30/2017 23:19,6/30/2017 23:29,577,Orleans St & Merchandise Mart Plaza,Wells St & Polk St,Subscriber,Male,1986
+1549604,6/30/2017 19:52,6/30/2017 19:58,352,Kedzie Ave & Palmer Ct,Kedzie Ave & Milwaukee Ave,Subscriber,Male,1978
+1550472,6/30/2017 21:19,6/30/2017 21:24,302,Wells St & Evergreen Ave,Wells St & Concord Ln,Subscriber,Male,1979
+1549235,6/30/2017 19:23,6/30/2017 20:35,4347,McClurg Ct & Illinois St,Burnham Harbor,Subscriber,Male,1964
+1549916,6/30/2017 20:21,6/30/2017 20:47,1599,Cottage Grove Ave & Oakwood Blvd,Burnham Harbor,Customer,,
+1550132,6/30/2017 20:40,6/30/2017 21:57,4619,Racine Ave & Belmont Ave,Racine Ave & Belmont Ave,Customer,,
+1548868,6/30/2017 18:58,6/30/2017 19:13,938,Burnham Harbor,MLK Jr Dr & 29th St,Subscriber,Male,1993
+1551104,6/30/2017 22:49,6/30/2017 22:57,461,Dearborn St & Monroe St,Green St & Madison St,Subscriber,Female,1986
+1550454,6/30/2017 21:16,6/30/2017 21:22,314,LaSalle St & Washington St,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1954
+1550059,6/30/2017 20:34,6/30/2017 20:58,1470,Fairbanks Ct & Grand Ave,Damen Ave & Augusta Blvd,Subscriber,Female,1992
+1550081,6/30/2017 20:36,6/30/2017 20:39,210,Desplaines St & Kinzie St,Kingsbury St & Kinzie St,Subscriber,Male,1987
+1551405,6/30/2017 23:39,6/30/2017 23:47,489,Rush St & Cedar St,Clark St & Elm St,Customer,,
+1549256,6/30/2017 19:24,6/30/2017 19:30,362,Wabash Ave & Roosevelt Rd,Michigan Ave & Jackson Blvd,Subscriber,Male,1990
+1551304,6/30/2017 23:21,6/30/2017 23:26,275,LaSalle St & Adams St,Canal St & Madison St,Customer,,
+1550891,6/30/2017 22:15,6/30/2017 22:27,719,Lincoln Ave & Diversey Pkwy,Logan Blvd & Elston Ave,Subscriber,Male,1987
+1549302,6/30/2017 19:28,6/30/2017 19:38,603,Wilton Ave & Belmont Ave,Broadway & Cornelia Ave,Subscriber,Male,1993
+1551270,6/30/2017 23:14,6/30/2017 23:22,451,Bissell St & Armitage Ave,Wells St & Concord Ln,Subscriber,Female,1992
+1549530,6/30/2017 19:46,6/30/2017 20:04,1102,Streeter Dr & Grand Ave,Theater on the Lake,Subscriber,Female,1965
+1550198,6/30/2017 20:49,6/30/2017 21:20,1868,Theater on the Lake,Clark St & Lincoln Ave,Customer,,
+1550559,6/30/2017 21:29,6/30/2017 21:51,1301,Rhodes Ave & 32nd St,Rhodes Ave & 32nd St,Subscriber,Female,1993
+1549497,6/30/2017 19:44,6/30/2017 20:08,1425,Lake Shore Dr & Ohio St,Theater on the Lake,Subscriber,Female,1986
+1549417,6/30/2017 19:38,6/30/2017 20:29,3071,Clark St & Elm St,Clark St & Elm St,Subscriber,Male,1986
+1550058,6/30/2017 20:34,6/30/2017 20:44,631,Daley Center Plaza,Federal St & Polk St,Subscriber,Male,1965
+1549687,6/30/2017 20:01,6/30/2017 20:34,2003,Wabash Ave & Roosevelt Rd,Indiana Ave & 26th St,Subscriber,Male,1990
+1550677,6/30/2017 21:42,6/30/2017 21:47,303,Broadway & Argyle St,Broadway & Ridge Ave,Subscriber,Male,1983
+1550786,6/30/2017 21:59,6/30/2017 22:04,306,Halsted St & Diversey Pkwy,Broadway & Belmont Ave,Subscriber,Male,1993
+1549171,6/30/2017 19:18,6/30/2017 19:36,1111,Halsted St & 21st St,Calumet Ave & 33rd St,Subscriber,Male,1985
+1549151,6/30/2017 19:16,6/30/2017 19:19,184,Aberdeen St & Jackson Blvd,Loomis St & Jackson Blvd,Customer,,
+1550887,6/30/2017 22:14,6/30/2017 22:37,1348,Damen Ave & Pierce Ave,Mies van der Rohe Way & Chicago Ave,Subscriber,Male,1991
+1550236,6/30/2017 20:53,6/30/2017 21:17,1470,Michigan Ave & Pearson St,Wabash Ave & Roosevelt Rd,Subscriber,Male,1989
+1549622,6/30/2017 19:54,6/30/2017 20:22,1662,Paulina St & Montrose Ave,Ritchie Ct & Banks St,Subscriber,Male,1988
+1550738,6/30/2017 21:51,6/30/2017 23:09,4701,Clarendon Ave & Junior Ter,Clarendon Ave & Junior Ter,Customer,,
+1549443,6/30/2017 19:39,6/30/2017 19:50,633,Lake Shore Dr & North Blvd,Sedgwick St & Webster Ave,Subscriber,Male,1995
+1550499,6/30/2017 21:22,6/30/2017 21:44,1356,Clark St & Lincoln Ave,Fairbanks Ct & Grand Ave,Subscriber,Male,1962
+1550722,6/30/2017 21:49,6/30/2017 21:55,356,Wells St & Concord Ln,Larrabee St & Menomonee St,Subscriber,Female,1981
+1551235,6/30/2017 23:09,6/30/2017 23:28,1138,Western Ave & Monroe St,Western Ave & Monroe St,Subscriber,Male,1975
+1550455,6/30/2017 21:17,6/30/2017 21:39,1330,Canal St & Monroe St (*),Burnham Harbor,Subscriber,Male,1966
+1548910,6/30/2017 19:00,6/30/2017 19:15,889,Dearborn St & Erie St,Wells St & Concord Ln,Subscriber,Male,1991
+1551040,6/30/2017 22:37,6/30/2017 22:40,173,Wells St & Concord Ln,Wells St & Concord Ln,Subscriber,Female,1983
+1549050,6/30/2017 19:10,6/30/2017 19:28,1088,Fort Dearborn Dr & 31st St,Burnham Harbor,Customer,,
+1550688,6/30/2017 21:42,6/30/2017 22:16,2004,Mies van der Rohe Way & Chicago Ave,Milwaukee Ave & Rockwell St,Subscriber,Female,1990
+1549843,6/30/2017 20:13,6/30/2017 20:48,2106,Cannon Dr & Fullerton Ave,Cannon Dr & Fullerton Ave,Subscriber,Male,1975
+1550961,6/30/2017 22:24,6/30/2017 22:52,1684,Artesian Ave & Hubbard St,Greenview Ave & Fullerton Ave,Subscriber,Male,1994
+1549003,6/30/2017 19:07,6/30/2017 19:14,425,Ashland Ave & Division St,Milwaukee Ave & Wabansia Ave,Subscriber,Female,1986
+1549323,6/30/2017 19:31,6/30/2017 19:37,387,Halsted St & Roscoe St,Southport Ave & Roscoe St,Subscriber,Male,1984
+1549249,6/30/2017 19:24,6/30/2017 19:33,571,Canal St & Taylor St,Clinton St & Lake St,Subscriber,Male,1988
+1550447,6/30/2017 21:15,6/30/2017 21:37,1318,Michigan Ave & 8th St,Columbus Dr & Randolph St,Customer,,
+1550728,6/30/2017 21:51,6/30/2017 22:06,949,Clark St & Grace St,Leavitt St & Lawrence Ave,Subscriber,Male,1975
+1549716,6/30/2017 20:03,6/30/2017 20:26,1403,Sedgwick St & North Ave,Southport Ave & Clark St,Subscriber,Female,1992
+1550370,6/30/2017 21:06,6/30/2017 21:15,539,Franklin St & Lake St,Ogden Ave & Chicago Ave,Subscriber,Female,1976
+1549749,6/30/2017 20:06,6/30/2017 20:12,318,Sedgwick St & Webster Ave,Clark St & Lincoln Ave,Subscriber,Male,1981
+1549038,6/30/2017 19:09,6/30/2017 19:28,1150,Fort Dearborn Dr & 31st St,Burnham Harbor,Customer,,
+1551264,6/30/2017 23:13,6/30/2017 23:21,456,Clark St & Berwyn Ave,Broadway & Ridge Ave,Subscriber,Female,1979
+1550952,6/30/2017 22:23,6/30/2017 22:33,619,Montrose Harbor,Sheridan Rd & Lawrence Ave,Subscriber,Male,1983
+1550582,6/30/2017 21:32,6/30/2017 21:48,949,Cityfront Plaza Dr & Pioneer Ct,Mies van der Rohe Way & Chestnut St,Customer,,
+1549917,6/30/2017 20:21,6/30/2017 20:40,1161,Streeter Dr & Grand Ave,Lake Shore Dr & Wellington Ave,Subscriber,Male,1992
+1550633,6/30/2017 21:37,6/30/2017 21:45,493,Rush St & Hubbard St,Clinton St & Lake St,Subscriber,Male,1993
+1549932,6/30/2017 20:22,6/30/2017 20:36,840,Dearborn Pkwy & Delaware Pl,Michigan Ave & Pearson St,Customer,,
+1549198,6/30/2017 19:20,6/30/2017 19:39,1129,Western Ave & Lunt Ave,Broadway & Granville Ave,Subscriber,Male,1956
+1549401,6/30/2017 19:36,6/30/2017 19:50,849,Oakley Ave & Irving Park Rd,Oakley Ave & Irving Park Rd,Subscriber,Female,1955
+1550820,6/30/2017 22:04,6/30/2017 22:32,1684,Michigan Ave & Washington St,Michigan Ave & Washington St,Customer,,
+1549060,6/30/2017 19:10,6/30/2017 19:15,318,Wacker Dr & Washington St,Desplaines St & Kinzie St,Subscriber,Male,1985
+1549713,6/30/2017 20:03,6/30/2017 20:10,422,Wilton Ave & Belmont Ave,Southport Ave & Belmont Ave,Subscriber,Female,1979
+1550171,6/30/2017 20:45,6/30/2017 21:06,1243,McClurg Ct & Illinois St,Wells St & Concord Ln,Subscriber,Male,1958
+1550793,6/30/2017 22:00,6/30/2017 22:18,1107,Orleans St & Merchandise Mart Plaza,Franklin St & Monroe St,Subscriber,Male,1987
+1549237,6/30/2017 19:23,6/30/2017 19:51,1675,Halsted St & Wrightwood Ave,Sheffield Ave & Wrightwood Ave,Customer,,
+1551423,6/30/2017 23:42,6/30/2017 23:45,214,Green St & Randolph St,Desplaines St & Kinzie St,Subscriber,Male,1986
+1551367,6/30/2017 23:33,6/30/2017 23:38,296,Central St & Girard Ave,Central St Metra,Subscriber,Male,1993
+1549499,6/30/2017 19:44,6/30/2017 20:11,1600,Damen Ave & Sunnyside Ave,Dayton St & North Ave,Subscriber,Male,1986
+1551147,6/30/2017 22:56,6/30/2017 23:12,947,Green St & Madison St,Sedgwick St & North Ave,Customer,,
+1551094,6/30/2017 22:48,6/30/2017 23:07,1141,Sheffield Ave & Waveland Ave,Hampden Ct & Diversey Pkwy,Subscriber,Female,1968
+1549864,6/30/2017 20:16,6/30/2017 20:20,248,Ashland Ave & Blackhawk St,Wood St & Division St,Subscriber,Female,1986
+1550041,6/30/2017 20:32,6/30/2017 21:42,4199,Michigan Ave & Oak St,Sheridan Rd & Montrose Ave,Subscriber,Male,1983
+1550161,6/30/2017 20:44,6/30/2017 21:10,1553,Wells St & Concord Ln,Millennium Park,Subscriber,Female,1993
+1551213,6/30/2017 23:04,6/30/2017 23:08,200,Sedgwick St & Huron St,Kingsbury St & Erie St,Subscriber,Female,1983
+1550787,6/30/2017 21:59,6/30/2017 22:21,1278,Field Museum,Burnham Harbor,Customer,,
+1548953,6/30/2017 19:04,6/30/2017 19:16,710,Halsted St & Wrightwood Ave,Clifton Ave & Armitage Ave,Subscriber,Female,1992
+1551279,6/30/2017 23:16,6/30/2017 23:22,372,Humboldt Blvd & Armitage Ave,California Ave & Milwaukee Ave,Customer,,
+1551096,6/30/2017 22:49,6/30/2017 23:03,862,State St & Randolph St,Clark St & 9th St (AMLI),Subscriber,Female,1988
+1549347,6/30/2017 19:33,6/30/2017 19:38,302,Clark St & Lake St,Wabash Ave & Wacker Pl,Subscriber,Female,1994
+1549215,6/30/2017 19:22,6/30/2017 19:41,1170,Clinton St & Madison St,May St & Taylor St,Subscriber,Female,1982
+1551484,6/30/2017 23:52,7/1/2017 0:03,652,Damen Ave & Clybourn Ave,Ashland Ave & Wrightwood Ave,Subscriber,Male,1991
+1550636,6/30/2017 21:37,6/30/2017 22:24,2791,Morgan St & Lake St,Damen Ave & Pierce Ave,Subscriber,Male,1992
+1550400,6/30/2017 21:10,6/30/2017 21:41,1868,Shedd Aquarium,Wentworth Ave & Archer Ave,Customer,,
+1549619,6/30/2017 19:54,6/30/2017 20:15,1286,Buckingham Fountain,Shedd Aquarium,Customer,,
+1551480,6/30/2017 23:53,7/1/2017 0:12,1187,Ellis Ave & 55th St,Cottage Grove Ave & 47th St,Subscriber,Male,1987
+1549156,6/30/2017 19:17,6/30/2017 19:23,351,Millennium Park,Canal St & Madison St,Subscriber,Male,1969
+1550713,6/30/2017 21:48,6/30/2017 21:56,514,Dayton St & North Ave,Clybourn Ave & Division St,Customer,,
+1549887,6/30/2017 20:18,6/30/2017 20:31,796,Clark St & Chicago Ave,Clark St & Lincoln Ave,Subscriber,Male,1989
+1550999,6/30/2017 22:31,6/30/2017 22:55,1444,Columbus Dr & Randolph St,Theater on the Lake,Subscriber,Female,1977
+1551381,6/30/2017 23:35,6/30/2017 23:44,561,Lincoln Ave & Belmont Ave,Broadway & Belmont Ave,Subscriber,Female,1990
+1549523,6/30/2017 19:46,6/30/2017 19:55,566,Noble St & Milwaukee Ave,Damen Ave & Pierce Ave,Subscriber,Male,1986
+1549867,6/30/2017 20:16,6/30/2017 20:22,372,Federal St & Polk St,Dearborn St & Monroe St,Subscriber,Female,1991
+1551412,6/30/2017 23:40,7/1/2017 0:02,1303,State St & Van Buren St,State St & Van Buren St,Subscriber,Male,1985
+1550631,6/30/2017 21:37,6/30/2017 21:51,876,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Loyola Ave,Subscriber,Male,1992
+1549468,6/30/2017 19:41,6/30/2017 19:45,252,Clark St & Columbia Ave,Sheridan Rd & Loyola Ave,Subscriber,Male,1974
+1551005,6/30/2017 22:32,6/30/2017 22:48,975,Daley Center Plaza,Michigan Ave & Lake St,Subscriber,Male,1989
+1550228,6/30/2017 20:52,6/30/2017 21:10,1100,Hampden Ct & Diversey Pkwy,Clark St & Schiller St,Subscriber,Female,1980
+1548935,6/30/2017 19:02,6/30/2017 19:23,1251,Aberdeen St & Monroe St,Damen Ave & Pierce Ave,Subscriber,Male,1986
+1549537,6/30/2017 19:46,6/30/2017 19:49,166,Wabash Ave & Wacker Pl,Wabash Ave & Grand Ave,Subscriber,Male,1983
+1549376,6/30/2017 19:35,6/30/2017 19:53,1077,Cannon Dr & Fullerton Ave,Streeter Dr & Grand Ave,Customer,,
+1550770,6/30/2017 21:56,6/30/2017 22:09,751,Sheffield Ave & Kingsbury St,Lincoln Ave & Diversey Pkwy,Subscriber,Female,1990
+1550237,6/30/2017 20:53,6/30/2017 21:02,528,Shedd Aquarium,Wabash Ave & 8th St,Subscriber,Male,1968
+1551497,6/30/2017 23:58,7/1/2017 0:24,1569,Southport Ave & Clybourn Ave,Spaulding Ave & Armitage Ave,Subscriber,Female,1989
+1551390,6/30/2017 23:36,6/30/2017 23:48,719,Rush St & Cedar St,Clark St & Elm St,Customer,,
+1550579,6/30/2017 21:32,6/30/2017 21:44,737,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,Subscriber,Female,1956
+1551217,6/30/2017 23:05,6/30/2017 23:22,1035,Damen Ave & Madison St,Ashland Ave & Division St,Subscriber,Male,1984
+1548882,6/30/2017 18:59,6/30/2017 19:10,684,LaSalle St & Illinois St,Ritchie Ct & Banks St,Subscriber,Male,1982
+1551201,6/30/2017 23:04,6/30/2017 23:16,738,Damen Ave & Chicago Ave,Desplaines St & Kinzie St,Subscriber,Male,1991
+1549008,6/30/2017 19:07,6/30/2017 19:30,1343,Lake Shore Dr & Belmont Ave,Broadway & Argyle St,Subscriber,Female,1986
